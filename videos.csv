@@ -1,0 +1,6 @@
+increment_mode,relative_m3u8,auto,compress,debug,title,url
+false,true,true,false,false,Video One,https://example.com/one.m3u8
+false,true,true,false,false,Video Two,https://example.com/two.m3u8
+false,true,true,false,false,Video Three,https://example.com/three.m3u8
+false,true,true,false,false,Video Four,https://example.com/four.m3u8
+false,true,true,false,false,Video Five,https://example.com/five.m3u8
